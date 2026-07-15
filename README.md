@@ -47,7 +47,7 @@ the native codec.
 | Windows (MSVC) | Builds and passes |
 | Windows (mingw64 cross-compile) | Builds and passes |
 
-*Note that there could be differences with untested games.
+* Note that there could be differences with untested games.
 
 ## License
 
