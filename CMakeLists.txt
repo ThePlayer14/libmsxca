@@ -30,7 +30,6 @@ if(MSVC)
 else()
     target_compile_options(msxca PRIVATE -O2 -Wall -Wno-unused-parameter)
     set_target_properties(msxca PROPERTIES
-        C_VISIBILITY_PRESET hidden
         POSITION_INDEPENDENT_CODE ON
         VERSION ${PROJECT_VERSION}
         SOVERSION 1)
