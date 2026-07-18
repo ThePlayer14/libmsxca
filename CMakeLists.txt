@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
 project(libmsxca VERSION 1.0.0 LANGUAGES C)
 
-# libmsxca: cross-platform decompressor for MS-XCA "LZXNATIVE" (magic 0FF512EE)
+# libmsxca: cross-platform decompressor for Xbox Compression "LZXNATIVE" (magic 0FF512EE)
 # Xbox 360 xcompress blobs. Wraps libmspack's LZX ("lzxd") decoder with
 # chunk-framing support.
 #
