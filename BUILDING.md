@@ -3,7 +3,7 @@
 ## Requirements
 
 - **CMake** 3.14 or later
-- **C compiler** — gcc, clang, or MSVC
+- **C compiler** — gcc, clang, MSVC (on Windows)
 
 No other dependencies. libmspack is bundled (no external libmspack install needed).
 
