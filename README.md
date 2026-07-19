@@ -36,7 +36,7 @@ fresh decode context per block (`reset_interval = 0`,
 `output_length = UncompressedBlockSize`), decodes blobs **byte-identically** to
 the native codec.
 
-The library name is a shorthand for "**X**box (360) **C**ompression **A**lgorithm", also coincidentally similar to the Xpress compression format reference doc, but that one wasn't useful for the project. 
+The library name is a shorthand for "**X**box (360) **C**ompression **A**lgorithm", also coincidentally similar to the Xpress compression format reference doc's name, but that one wasn't useful for the project. 
 
 ## Tested with
 
