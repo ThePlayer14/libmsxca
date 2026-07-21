@@ -55,10 +55,10 @@ The library name is a shorthand for "**X**box (360) **C**ompression **A**lgorith
 
 * Note that there could be differences with untested games.
 
-## Note
+# Note
 - OpenCode's Zen models were used during the development and testing phase for this library.
 
-## License
+# License
 
 - **libmsxca wrapper** (`msxca.c`, `msxca.h`): MIT — do what you want
 - **libmspack** (`lzxd.c`, `lzx.h`, `mspack.h`, `system.h`, `system.c`,
